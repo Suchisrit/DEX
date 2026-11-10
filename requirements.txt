@@ -1,0 +1,13 @@
+numpy<2.0.0
+opencv-python
+Pillow
+scipy
+matplotlib
+tqdm
+timm
+einops==0.7.0
+tensorboard
+huggingface-hub>=0.22.0
+safetensors
+PyYAML
+yacs
